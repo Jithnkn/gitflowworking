@@ -1,4 +1,3 @@
-Here's a concise workflow for **Gitflow** with commands:
 
 ### 1. **Initialize Gitflow**  
 ```bash
